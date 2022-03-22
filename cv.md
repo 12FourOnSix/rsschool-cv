@@ -8,9 +8,9 @@
 ### PROFILE 
 My latest job had little to do with IT, it was more about finances.  
 
-But at some point I got curious about programming, especially because many people called it 'a new essential skill'.  And the more I read and heard about programming in general, the more I felt it was not just a trendy thing but something that really could help to make things easier.  
+But at some point I got curious about programming, especially because many people called it 'a new essential skill'.  The more I read and hear about programming, the more I feel it's not just a trendy thing but something that really can make routine things easier. And also it may be a real opportunity to make something that is useful for many people or even to be on the edge of the science.
 
-My dream job would be more practical than theoretical, so that I could see the actual results of my work.
+My dream job would be more practical than theoretical though, so that I could see the actual results of my work.
 Also it would be great to have around people who are sincerely enthusiastic about what they do.
 
 I believe that IT is something that can lead me there, so I decided to give myself a chance, dive in and see if I can become a solid specialist in this field.
